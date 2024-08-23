@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2023-acl-sortie
 date: 2023-07-09
-venue: 'ACL'
+venue: 'Findings of ACL'
 location: Toronto, Canada
 author: Xueliang Zhao,Tingchen Fu,Lemao Liu,Lingpeng Kong,Shuming Shi,Rui Yan
 cofirst: 2
