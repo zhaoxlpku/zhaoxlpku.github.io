@@ -4,11 +4,11 @@ collection: publications
 category: conferences
 permalink: /publication/2024-acl-sego
 date: 2024-08-11
-venue: 'ACL'
+venue: ACL
 location: Bangkok, Thailand
 author: Xueliang Zhao,Xinting Huang,Wei Bi,Lingpeng Kong
-cofirst: 0
-url: 'https://aclanthology.org/2024.acl-long.407.pdf'
+cofirst: 1
+url: https://aclanthology.org/2024.acl-long.407.pdf
 ---
 
 Large Language Models (LLMs) have driven substantial progress in artificial intelligence in recent years, exhibiting impressive capabilities across a wide range of tasks, including mathematical problem-solving. Inspired by the success of subgoal-based methods, we propose a novel framework called SEquential subGoal Optimization (SEGO) to enhance LLMs’ ability to solve mathematical problems. By establishing a connection between the subgoal breakdown process and the probability of solving problems, SEGO aims to identify better subgoals with theoretical guarantees. Addressing the challenge of identifying suitable subgoals in a large solution space, our framework generates problem-specific subgoals and adjusts them according to carefully designed criteria. Incorporating these optimized subgoals into the policy model training leads to significant improvements in problem-solving performance. We validate SEGO’s efficacy through experiments on two benchmarks, GSM8K and MATH, where our approach outperforms existing methods, highlighting the potential of SEGO in AI-driven mathematical problem-solving.
