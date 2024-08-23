@@ -27,7 +27,24 @@
     {% endif %}
 
     <p>
-        • {{ post.author }}. 
+        &#x2022; <!-- Non-indexed symbol before authors -->
+    {% assign authors = post.author | split: "," %}
+    {% for author in authors %}
+        {% if author == "Xueliang Zhao" %}
+            <strong>{{ author }}</strong> <!-- Highlight "Xueliang Zhao" -->
+        {% else %}
+            {{ author }}
+        {% endif %}
+        
+        {% if forloop.index0 < post.cofirst %}
+            † <!-- Add "†" after co-first authors -->
+        {% endif %}
+        
+        {% if forloop.last == false %}
+            , <!-- Add comma between authors -->
+        {% endif %}
+    {% endfor %}.
+        
         <a href="{{ post.url }}">{{ title }}</a>.  <!-- Title links to post.url -->
         In <i>{{ post.venue }}</i> {{ post.date | default: "1900-01-01" | date: "%Y" }}, {{ post.location }}. 
         {% if post.code %}
