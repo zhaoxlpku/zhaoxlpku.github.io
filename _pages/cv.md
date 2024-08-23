@@ -20,22 +20,22 @@ Work experience
 * 03/2024 - 07/2024: NLP Research Intern
   * Sambanova Systems
   * Duties includes: Formal Theorem Proving
-  * Supervisor: Yun Du
+  * Supervisor: [Yun Du](https://www.linkedin.com/in/yun-du-ba99b524)
 
 * 03/2023 - 03/2024: NLP Research Intern
   * Tencent AI Lab
   * Duties included: Mathematics Reasoning and Multi-modal Reasoning
-  * Supervisor: Xinting Huang and Wei Bi
+  * Supervisor: [Xinting Huang](https://timhuang1.github.io/) and [Wei Bi](https://scholar.google.com/citations?user=aSJcgQMAAAAJ&hl=en)
 
 * 04/2021 - 10/2022: NLP Research Intern
   * Tencent AI Lab
   * Duties included: Open-domain Dialogue Systems and Neuro-symbolic Reasoning
-  * Supervisor: Lemao Liu
+  * Supervisor: [Lemao Liu](https://lemaoliu.github.io/homepage/)
 
 * 04/2019 - 07/2020: NLP Research Intern
   * Microsoft STCA
   * Duties included: Retrieval-augmented Dialogue Systems
-  * Supervisor: Wei Wu
+  * Supervisor: [Wei Wu](https://sites.google.com/view/wei-wu-homepage)
   
 
 Publications
