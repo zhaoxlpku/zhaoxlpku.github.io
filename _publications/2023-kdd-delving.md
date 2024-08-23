@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2023-kdd-delving
 date: 2023-08-06
 venue: 'KDD'
-location: Long Beach, CA, USA
+location: Long Beach, USA
 author: Tingchen Fu,Xueliang Zhao,Rui Yan
 cofirst: 2
 url: 'https://dl.acm.org/doi/pdf/10.1145/3580305.3599304'
