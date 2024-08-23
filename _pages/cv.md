@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, the University of Hong Kong, 2022-2026 (expected)
-* M.S. in Computer Science, GitHub University, 2019-2022
-* B.S. in Computer Science, GitHub University, 2015-2019
+* M.S. in Computer Science, Peking University, 2019-2022
+* B.S. in Computer Science, Peking University, 2015-2019
 
 Work experience
 ======
