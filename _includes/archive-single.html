@@ -29,7 +29,7 @@
     <p>
         {{ post.author }}. 
         <a href="{{ post.url }}">{{ title }}</a>.  <!-- Title links to post.url -->
-        In <i>{{ post.venue }}</i>, {{ post.location }}. 
+        In <i>{{ post.venue }}</i> {{ post.date | default: "1900-01-01" | date: "%Y" }}, {{ post.location }}. 
         <a href="{{ post.url }}">[paper]</a>  <!-- "paper" links to post.url -->
         {% if post.code %}
         <a href="{{ post.code }}">[code]</a>
