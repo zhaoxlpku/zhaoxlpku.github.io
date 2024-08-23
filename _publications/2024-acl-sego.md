@@ -2,7 +2,7 @@
 title: "SEGO: Sequential Subgoal Optimization for Mathematical Problem-Solving"
 collection: publications
 category: conferences
-permalink: https://aclanthology.org/2024.acl-long.407/
+permalink: /publication/2024-acl-sego
 excerpt: 'Xueliang Zhao, Xinting Huang, Wei Bi, Lingpeng Kong'
 date: 2024-08-11
 venue: 'ACL'
