@@ -6,7 +6,7 @@ permalink: /publication/2024-acl-sego
 date: 2024-08-11
 venue: 'ACL'
 location: Bangkok, Thailand
-author: Xueliang Zhao, Xinting Huang, Wei Bi, Lingpeng Kong
+author: **Xueliang Zhao**, Xinting Huang, Wei Bi, Lingpeng Kong
 url: 'https://aclanthology.org/2024.acl-long.407.pdf'
 ---
 
