@@ -30,9 +30,12 @@
         {{ post.author }}. 
         <a href="{{ post.url }}">{{ title }}</a>.  <!-- Title links to post.url -->
         In <i>{{ post.venue }}</i>, {{ post.location }}. 
-        [paper]<a href="{{ post.url }}">paper</a>  <!-- "paper" links to post.url -->
+        <a href="{{ post.url }}">[paper]</a>  <!-- "paper" links to post.url -->
         {% if post.code %}
-        [code]<a href="{{ post.code }}">{{ post.code }}</a>
+        <a href="{{ post.code }}">[code]</a>
+        {% endif %}
+        {% if post.blog %}
+        <a href="{{ post.blog }}">[blog]</a>
         {% endif %}
     </p>
 
